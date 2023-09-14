@@ -78,7 +78,7 @@ public class TextFinal {
             } else if (choice == 2) {
                 // Decryption
 
-                System.out.print("Enter Dencryption Key (Same as Encryption Key): ");
+                System.out.print("Enter Decryption Key (Same as Encryption Key): ");
                 int inkey = scan.nextInt();
                 switch(inkey)
                 {
