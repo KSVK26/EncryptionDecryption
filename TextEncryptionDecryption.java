@@ -26,7 +26,7 @@ public class TextFinal {
             if (choice == 1) {
                 // Encryption
 
-                System.out.print("Enter Encryption Key: ");
+                System.out.print("Enter Encryption Key (from 1-8): ");
                 int inkey = scan.nextInt();
                 switch(inkey)
                 {
